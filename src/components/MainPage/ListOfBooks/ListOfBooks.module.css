@@ -1,0 +1,11 @@
+@media (min-width: 1010px) {
+    .listOfBooks {
+        width: 50%;
+    }
+}
+
+@media (max-width: 1010px) {
+    .listOfBooks {
+        width: 100%;
+    }
+}

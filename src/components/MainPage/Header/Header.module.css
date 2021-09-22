@@ -1,0 +1,58 @@
+.wrapper {
+  display: flex;
+}
+
+.blackBgWhiteText {
+  width: 50%;
+  text-align: right;
+  font-size: 48px;
+  background: #000000;
+  color: #ffffff;
+}
+
+.leftText {
+  margin-right: 20px;
+}
+
+.rightText {
+  margin-left: 20px;
+  margin-bottom: 6px;
+}
+
+.littleBlackText {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  margin-left: 20px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.whiteBgBlackText {
+  width: 50%;
+  font-size: 48px;
+  background: #ffffff;
+  color: #000000;
+}
+
+.ellipse {
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: #000000;
+  margin-left: 180px;
+  margin-top: -6px;
+  margin-bottom: 50px;
+}
+
+.rightLine {
+  height: 1px;
+  width: 180px;
+  background: #000000;
+}
+
+.leftLine {
+  margin-left: 82%;
+  height: 1px;
+  width: 150px;
+  background: #ffffff;
+}

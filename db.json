@@ -1,0 +1,140 @@
+{
+  "items": [
+    {
+      "id": "2",
+      "name": "Three Comrades",
+      "author": "Erich Maria Remarque",
+      "year": 1937,
+      "edited": false,
+      "description": "From the acclaimed author of All Quiet on the Western Front comes Three Comrades, a harrowing novel that follows a group of friends as they cope with upheaval in Germany between World Wars I and II. The year is 1928. On the outskirts of a large German city, three young men are earning a thin and precarious living."
+    },
+    {
+      "id": "3",
+      "name": "Arch of Triumph",
+      "author": "Erich Maria Remarque",
+      "year": 1945,
+      "edited": false,
+      "description": "The Arc de Triomphe honours those who fought and died for France in the French Revolutionary and Napoleonic Wars, with the names of all French victories and generals inscribed on its inner and outer surfaces. ... Beneath its vault lies the Tomb of the Unknown Soldier from World War I."
+    },
+    {
+      "id": "4",
+      "name": "The Thorn Birds",
+      "author": "Colleen McCullough",
+      "year": 1977,
+      "edited": false,
+      "description": "The Thorn Birds is a sweeping love story set on Drogheda, a sheep station in the Australian Outback. At its heart is the ill-fated romance of beautiful Meggie Cleary and the handsome Roman Catholic priest, Father Ralph de Bricassart."
+    },
+    {
+      "id": "5",
+      "name": "Harry Potter and the Philosopher’s Stone",
+      "author": "J. K. Rowling",
+      "year": 1998,
+      "edited": false,
+      "description": "Harry Potter and the Philosopher's Stone is an enthralling start to Harry's journey toward coming to terms with his past and facing his future. It was the first book written by Rowling, and she was praised for creating well-rounded characters and a fully realized wizard universe that coexisted with the present world."
+    },
+    {
+      "id": "6",
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1966,
+      "edited": false,
+      "description": "To Kill a Mockingbird, novel by Harper Lee, published in 1960. Enormously popular, it was translated into some 40 languages and sold more than 30 million copies worldwide. In 1961 it won a Pulitzer Prize. The novel was praised for its sensitive treatment of a child’s awakening to racism and prejudice in the American South."
+    },
+    {
+      "id": "7",
+      "name": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "edited": false,
+      "description": "The Lord of the Rings is the saga of a group of sometimes reluctant heroes who set forth to save their world from consummate evil. Its many worlds and creatures were drawn from Tolkien's extensive knowledge of philology and folklore."
+    },
+    {
+      "id": "8",
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "edited": false,
+      "description": "The Great Gatsby, third novel by F. Scott Fitzgerald, published in 1925 by Charles Scribner's Sons. Set in Jazz Age New York, the novel tells the tragic story of Jay Gatsby, a self-made millionaire, and his pursuit of Daisy Buchanan, a wealthy young woman whom he loved in his youth."
+    },
+    {
+      "id": "9",
+      "name": "Pride and Prejudicee",
+      "author": "Jane Austen",
+      "year": 1813,
+      "edited": false,
+      "description": ""
+    },
+    {
+      "id": "10",
+      "name": "Little Women",
+      "author": "Louisa May Alcott",
+      "year": 1868,
+      "edited": false,
+      "description": "Pride and Prejudice follows the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner. They must overcome the titular sins of pride and prejudice in order to fall in love and marry."
+    },
+    {
+      "id": "11",
+      "name": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "year": 1984,
+      "edited": false,
+      "description": "Fahrenheit 451 is a 1953 dystopian novel by American writer Ray Bradbury. ... Often regarded as one of his best works, the novel presents a future American society where books are outlawed and \"firemen\" burn any that are found."
+    },
+    {
+      "id": "12",
+      "name": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "year": 1936,
+      "edited": false,
+      "description": "Gone with the Wind, novel by Margaret Mitchell, published in 1936. It won a Pulitzer Prize in 1937. Gone with the Wind is a sweeping romantic story about the American Civil War from the point of view of the Confederacy."
+    },
+    {
+      "id": "13",
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year": 1951,
+      "edited": false,
+      "description": "The Catcher in the Rye, novel by J.D. Salinger published in 1951. The novel details two days in the life of 16-year-old Holden Caulfield after he has been expelled from prep school. Confused and disillusioned, Holden searches for truth and rails against the “phoniness” of the adult world."
+    },
+    {
+      "id": "14",
+      "name": " Little Prince",
+      "author": "Emily Bronte",
+      "year": 1943,
+      "edited": false,
+      "description": "Plot summary. The narrator introduces himself as a man who learned when he was a child that adults lack imagination and understanding. He is now a pilot who has crash-landed in a desert. He encounters a small boy who asks him for a drawing of a sheep, and the narrator obliges."
+    },
+    {
+      "id": "15",
+      "name": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "year": 1939,
+      "edited": false,
+      "description": "The Grapes of Wrath, the best-known novel by John Steinbeck, published in 1939. It evokes the harshness of the Great Depression and arouses sympathy for the struggles of migrant farmworkers. The book came to be regarded as an American classic."
+    },
+    {
+      "id": 1628505832578,
+      "name": "Book",
+      "author": "Sam",
+      "year": "2020",
+      "description": "Description",
+      "edited": false
+    },
+    {
+      "id": 1628521741217,
+      "name": "I CAN",
+      "author": "I am",
+      "year": "2021",
+      "description": "",
+      "edited": false
+    },
+    {
+      "id": 1628521800596,
+      "name": "boom",
+      "author": "Gan",
+      "year": "2020",
+      "description": "",
+      "edited": false
+    }
+  ]
+}
